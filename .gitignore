@@ -29,6 +29,9 @@
 # Build folder
 build/
 
+# Code
+.vscode
+
 # Executables
 *.exe
 *.out
